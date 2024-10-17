@@ -4,3 +4,4 @@ Win32
 __history
 __recovery
 /FireDACInMemory/*.res
+*.res
